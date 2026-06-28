@@ -14,7 +14,7 @@ The goal is simplicity, readability, and straightforward execution.
 
 ## ⚙️ Usage
 
-> loadstring(game:HttpGet("https://raw.githubusercontent.com/Admin-Keycc/Car-Teleport/refs/heads/main/main"))()**
+> **loadstring(game:HttpGet("https://raw.githubusercontent.com/Admin-Keycc/Car-Teleport/refs/heads/main/main"))()**
 
 Use the provided Lua file according to your environment.
 
