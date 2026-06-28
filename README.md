@@ -10,6 +10,8 @@ This repository contains a Lua script intended for use in supported environments
 
 The goal is simplicity, readability, and straightforward execution.
 
+## **⚠️ This script is silently detected**
+
 ---
 
 ## ⚙️ Usage
